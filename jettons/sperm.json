@@ -1,0 +1,12 @@
+{
+  "address": "0:b8c8d5e28e1d8426a0e93ee9ec8e335e2c6ed540575b547eb84085f96a8c325f",
+  "name": "Safe Per Moon",
+  "symbol": "SPERM",
+  "decimals": 9,
+  "image": "https://safepermoon.com/logo.png",
+  "description": "SPERM (Safe Per Moon) — meme token of the MoonRaid ecosystem. Stake, play, and rise to the Moon on the TON blockchain.",
+  "social": {
+    "twitter": "https://x.com/safepermoon",
+    "website": "https://safepermoon.com"
+  }
+}
